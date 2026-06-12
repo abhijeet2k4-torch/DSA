@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/abhijeet2k4-torch/DSA/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/abhijeet2k4-torch/DSA/tree/master/0225-implement-stack-using-queues) |
 ## Math
 |  |
 | ------- |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhijeet2k4-torch/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhijeet2k4-torch/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhijeet2k4-torch/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
