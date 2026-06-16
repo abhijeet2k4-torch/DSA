@@ -8,14 +8,8 @@ class MinStack(object):
         :type value: int
         :rtype: None
         """
-        if not self.stack:
-            self.stack.append((value,value))
-        else:
-            if self.stack[-1][1] > value:
-                self.stack.append((value,value))
-            else:
-                self.stack.append((value,self.stack[-1][1]))
-
+        current_min = value if not self.stack else min(value, self.stack[-1][1])
+        self.stack.append((value,current_min))
     def pop(self):
         """
         :rtype: None
