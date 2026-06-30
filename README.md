@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abhijeet2k4-torch/DSA/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/abhijeet2k4-torch/DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/abhijeet2k4-torch/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abhijeet2k4-torch/DSA/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/abhijeet2k4-torch/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhijeet2k4-torch/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/abhijeet2k4-torch/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abhijeet2k4-torch/DSA/tree/master/0503-next-greater-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -105,4 +107,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/abhijeet2k4-torch/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abhijeet2k4-torch/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
