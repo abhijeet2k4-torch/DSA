@@ -12,9 +12,7 @@ class Solution(object):
                 while s[right] in seen:
                     seen.remove(s[left])
                     left += 1
-                seen.add(s[right])
-            else:
-                seen.add(s[right])
+            seen.add(s[right])
             maxs = max(maxs,len(seen))
         return maxs
 
