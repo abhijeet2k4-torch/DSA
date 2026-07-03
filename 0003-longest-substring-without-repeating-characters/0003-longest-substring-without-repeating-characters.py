@@ -6,14 +6,15 @@ class Solution(object):
         """
         maxs = 0
         left = 0
-        right = 0
-        for i in range(len(s)):
-            if s[right] in set(s[left:right]):
-                while s[right] in set(s[left:right]):
+        seen = set()
+        for right in range(len(s)):
+            if s[right] in seen:
+                while s[right] in seen:
+                    seen.remove(s[left])
                     left += 1
-                right+= 1
+                seen.add(s[right])
             else:
-                right+=1
-            maxs = max(maxs,len(set(s[left:right])))
+                seen.add(s[right])
+            maxs = max(maxs,len(seen))
         return maxs
 
