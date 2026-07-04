@@ -5,23 +5,20 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        kcount = 0
-        kindex = deque()
+        cz = 0
+        maxl = 0
         left = 0
-        max_length = 0
         for right in range(len(nums)):
             if nums[right] == 0:
-                if k == 0:
-                    left = right+1
-                elif (k - len(kindex))>0:
-                    kindex.append(right)
+                if cz < k:
+                    cz+=1
                 else:
-                    nums[right] = 1
-                    left = kindex[0]+1
-                    kindex.popleft()
-                    kindex.append(right)
-            max_length = max(max_length,(right-left+1))
-        return max_length
+                    while nums[left] != 0:
+                        left+=1
+                    left += 1
+            maxl = max(maxl, (right-left+1))
+        return maxl
+                    
 
 
 
