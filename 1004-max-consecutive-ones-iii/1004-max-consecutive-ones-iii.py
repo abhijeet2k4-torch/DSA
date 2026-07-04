@@ -5,7 +5,6 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        remain = k
         kcount = 0
         kindex = deque()
         left = 0
@@ -14,9 +13,7 @@ class Solution(object):
             if nums[right] == 0:
                 if k == 0:
                     left = right+1
-                elif remain>0:
-                    nums[right] = 1
-                    remain -= 1
+                elif (k - len(kindex))>0:
                     kindex.append(right)
                 else:
                     nums[right] = 1
