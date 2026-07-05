@@ -14,7 +14,6 @@ class Solution(object):
                 if k == len(cardPoints):
                     return counter
             else:
-                counter -= cardPoints[-k+i-1]
-                counter += cardPoints[i-1]
+                counter -= cardPoints[-k+i-1] - cardPoints[i-1]
             maxscore = max(maxscore,counter)
         return maxscore
