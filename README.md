@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhijeet2k4-torch/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abhijeet2k4-torch/DSA/tree/master/0011-container-with-most-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abhijeet2k4-torch/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/abhijeet2k4-torch/DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/abhijeet2k4-torch/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhijeet2k4-torch/DSA/tree/master/0503-next-greater-element-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijeet2k4-torch/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/abhijeet2k4-torch/DSA/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abhijeet2k4-torch/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhijeet2k4-torch/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abhijeet2k4-torch/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhijeet2k4-torch/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhijeet2k4-torch/DSA/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abhijeet2k4-torch/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Divide and Conquer
 |  |
 | ------- |
