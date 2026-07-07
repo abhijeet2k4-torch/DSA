@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/abhijeet2k4-torch/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/abhijeet2k4-torch/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhijeet2k4-torch/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/abhijeet2k4-torch/DSA/tree/master/0853-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/abhijeet2k4-torch/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijeet2k4-torch/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijeet2k4-torch/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhijeet2k4-torch/DSA/tree/master/0217-contains-duplicate) |
+| [0853-car-fleet](https://github.com/abhijeet2k4-torch/DSA/tree/master/0853-car-fleet) |
 ## Recursion
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/abhijeet2k4-torch/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/abhijeet2k4-torch/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhijeet2k4-torch/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/abhijeet2k4-torch/DSA/tree/master/0853-car-fleet) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abhijeet2k4-torch/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhijeet2k4-torch/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/abhijeet2k4-torch/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/abhijeet2k4-torch/DSA/tree/master/0853-car-fleet) |
 ## Simulation
 |  |
 | ------- |
