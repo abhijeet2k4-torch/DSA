@@ -9,13 +9,12 @@ class Solution:
             s1set[s] += 1
         for right in range(len(s2)):
             s2set[s2[right]] += 1
-            if s1set == s2set:
-                return True
-            if right >= len(s1):
+            if (right-left+1)>len(s1):
                 s2set[s2[left]] -= 1
                 if s2set[s2[left]] == 0:
                     del s2set[s2[left]]
                 left += 1
-                if s1set == s2set:
-                    return True
+            if s2set == s1set:
+                return True
         return False
+
