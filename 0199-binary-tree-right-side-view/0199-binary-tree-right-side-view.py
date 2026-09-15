@@ -12,15 +12,14 @@ class Solution:
         sarea = deque([root])
         while sarea:
             length = len(sarea)
-            level = []
             for i in range(length):
                 node = sarea.popleft()
                 if node.left:
                     sarea.append(node.left)
                 if node.right:
                     sarea.append(node.right)
-                level.append(node.val)
-            answer.append(level[-1])
+            if i == length -1:
+                answer.append(node.val)
         return answer
 
             
