@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhijeet2k4-torch/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/abhijeet2k4-torch/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhijeet2k4-torch/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/abhijeet2k4-torch/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/abhijeet2k4-torch/DSA/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijeet2k4-torch/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/abhijeet2k4-torch/DSA/tree/master/0496-next-greater-element-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/abhijeet2k4-torch/DSA/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/abhijeet2k4-torch/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/abhijeet2k4-torch/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhijeet2k4-torch/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhijeet2k4-torch/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijeet2k4-torch/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/abhijeet2k4-torch/DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/abhijeet2k4-torch/DSA/tree/master/0076-minimum-window-substring) |
+| [0208-implement-trie-prefix-tree](https://github.com/abhijeet2k4-torch/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhijeet2k4-torch/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijeet2k4-torch/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhijeet2k4-torch/DSA/tree/master/0567-permutation-in-string) |
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijeet2k4-torch/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/abhijeet2k4-torch/DSA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
