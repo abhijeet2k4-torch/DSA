@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhijeet2k4-torch/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abhijeet2k4-torch/DSA/tree/master/0011-container-with-most-water) |
+| [0078-subsets](https://github.com/abhijeet2k4-torch/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhijeet2k4-torch/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhijeet2k4-torch/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijeet2k4-torch/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/abhijeet2k4-torch/DSA/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/abhijeet2k4-torch/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/abhijeet2k4-torch/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhijeet2k4-torch/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhijeet2k4-torch/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
