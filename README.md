@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijeet2k4-torch/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/abhijeet2k4-torch/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abhijeet2k4-torch/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/abhijeet2k4-torch/DSA/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhijeet2k4-torch/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhijeet2k4-torch/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhijeet2k4-torch/DSA/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijeet2k4-torch/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhijeet2k4-torch/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Bit Manipulation
@@ -315,9 +317,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhijeet2k4-torch/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/abhijeet2k4-torch/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhijeet2k4-torch/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/abhijeet2k4-torch/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/abhijeet2k4-torch/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhijeet2k4-torch/DSA/tree/master/0090-subsets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/abhijeet2k4-torch/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
