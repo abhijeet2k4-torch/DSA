@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/abhijeet2k4-torch/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/abhijeet2k4-torch/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/abhijeet2k4-torch/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abhijeet2k4-torch/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhijeet2k4-torch/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/abhijeet2k4-torch/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhijeet2k4-torch/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhijeet2k4-torch/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhijeet2k4-torch/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/abhijeet2k4-torch/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/abhijeet2k4-torch/DSA/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhijeet2k4-torch/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhijeet2k4-torch/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhijeet2k4-torch/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhijeet2k4-torch/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhijeet2k4-torch/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/abhijeet2k4-torch/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhijeet2k4-torch/DSA/tree/master/0100-same-tree) |
@@ -322,9 +325,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/abhijeet2k4-torch/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/abhijeet2k4-torch/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/abhijeet2k4-torch/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abhijeet2k4-torch/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhijeet2k4-torch/DSA/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhijeet2k4-torch/DSA/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/abhijeet2k4-torch/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
